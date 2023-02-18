@@ -35,7 +35,6 @@ class User():
             print(f"[X] {E}\t Try again")
 
     # This method retrieves user information based on the api_option given by the user
-    # TODO check if the api_option is valid
 
     """
     API parameters for creating a new paste:
